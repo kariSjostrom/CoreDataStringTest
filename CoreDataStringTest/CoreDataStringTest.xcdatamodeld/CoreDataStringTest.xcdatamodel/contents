@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="15A284" minimumToolsVersion="Automatic">
+    <entity name="Movies" representedClassName=".Movies" syncable="YES">
+        <attribute name="actorone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="actortwo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="film" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="producer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Movies" positionX="-45" positionY="0" width="128" height="135"/>
+    </elements>
+</model>
